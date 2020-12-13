@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MemoOfDay</string>
+
+
+
+    <!-- Login String -->
+    <string name="login_email">Email</string>
+    <string name="login_email_hint">이메일를 입력해 주세요</string>
+
+    <string name="login_pwd">Password</string>
+    <string name="login_pwd_hint">패스워드를 입력해 주세요</string>
+
+    <string name="login_btn">로그인</string>
+    <string name="regist_btn">회원가입</string>
+
+
+    <string name="login_fail_email"></string>
+
+
+
+</resources>

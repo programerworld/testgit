@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135557575917",
+    "project_id": "memoofday",
+    "storage_bucket": "memoofday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135557575917:android:c24441e2e9d1e51bd648e4",
+        "android_client_info": {
+          "package_name": "com.example.memoofday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135557575917-h2knshecfeb2b8g2rs30r1teturk0fmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6AbyWT0aso0ysTjyei3o1GWoPJigoQfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135557575917-h2knshecfeb2b8g2rs30r1teturk0fmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
